@@ -3,7 +3,7 @@
     "python.testing.pytestArgs": [
         "{{ cookiecutter.package_name }}"
     ],
-    "python.testing.pytestEnabled": true
+    "python.testing.pytestEnabled": true,
 	"python.formatting.provider": "black",
 	"editor.formatOnSave": true,
 	"python.linting.pylintPath": "env\\Scripts\\pylint",
